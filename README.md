@@ -30,13 +30,13 @@ The current projects are (with no meaning to order):
   - A collection of modules which I've found, or hope to find, use for in multiple AoC challenges
 - AoC-2019
   - My efforts at solving the problems for Advent of Code, 2019
-- AoC-2020 [(Completed all 25 (50 stars)]
+- AoC-2020 [Completed all 25 (50 stars) this year]
   - My efforts at solving the problems for Advent of Code, 2020
 - repo-template
   - Pre-populate a repo with templated versions of common files
 - assorted-tools
   - A general catch-all collection of scripts I have built for various needs and wish to keep handy for quite a while
-- l00-ex01, and simialr names (GitHub only)
+- l00-ex01, (and simialr names)
   - The different assignments and homework for a Front-End Web Development course I took
 - fewd-final-project
   - The final project for the course above
