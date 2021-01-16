@@ -26,7 +26,7 @@ The current projects are:
    - A set of files and scripts for pre-populating a new repo with the files I prefer, in the way I want them
  - assorted-tools (GitLab only)
    - A general catch-all collection of scripts I have built for various needs and wish to keep handy for quite a while
-
+![Metrics](https://github.com/chindraba-work/chindraba-work/blob/master/github-metrics.svg)
 <!--
 **chindraba-work/chindraba-work** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
