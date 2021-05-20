@@ -2,8 +2,6 @@
 
 I'm a old-school programmer who has never stopped learning and doing. This is where I place my personal projects, with no priority to them. I also place some of my work in a companion collection on [GitLab](https://www.gitlab.com/Chindraba). Some of the repositories here are mirrored there, others are only found in one collection or the other.
 
-![Metrics](https://github.com/chindraba-work/chindraba-work/blob/master/github-metrics.svg)
-
 These projects are open for collaboration, though they are intended for my own use. I prefer to use either the MIT license or the GPL 2.0 only license, though exceptions will always be a possibility. Anything you find here which is useful to your needs, please feel free to clone, fork, or otherwise copy, keeping in mind that the license given for that project still applies.
 
 These projects are spare-time efforts, with many other work and life activities taking priority.
